@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474486472232",
+    "project_id": "choco-notes",
+    "storage_bucket": "choco-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474486472232:android:0a6eba3880932115723f1d",
+        "android_client_info": {
+          "package_name": "com.erni.choconotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474486472232-5nrdnd3n8s5gjqa3c6ictst94gcaaeug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjgBRZQBByFVExrXOfi5LLU7HeO6XoOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474486472232-5nrdnd3n8s5gjqa3c6ictst94gcaaeug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
